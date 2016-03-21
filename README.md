@@ -43,4 +43,4 @@ There are some useful default shortcuts in here: [Sublime Text 2 - Useful Shortc
 
 **Alignment**
 
-<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> = trigger the Alinment plugin.
+<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> triggers the Alignment plugin.
