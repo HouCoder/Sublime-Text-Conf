@@ -1,0 +1,6 @@
+Package Control.merged-ca-bundle
+*.cache
+Package Control.last-run
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+Color Highlighter

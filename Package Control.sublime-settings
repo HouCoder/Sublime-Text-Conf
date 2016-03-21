@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"EditorConfig",
+		"Emmet",
+		"Jade",
+		"LESS",
+		"Markdown Extended",
+		"Package Control",
+		"Syntax Highlighting for Sass",
+		"Theme - Afterglow",
+		"TypeScript"
+	]
+}
