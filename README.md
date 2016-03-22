@@ -16,7 +16,7 @@ $ git clone https://github.com/HouCoder/Sublime-Text-Conf.git ~/.Sublime-Text-Co
 $ mv ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User.original
 
 # Create symbol link
-$ ln -s ~/.Sublim-Text-2-Conf ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+$ ln -s ~/.Sublime-Text-Conf ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
 ```
 
 Then re-open Sublime Text again, after the Package Control completes install all plugins, it's all done.
