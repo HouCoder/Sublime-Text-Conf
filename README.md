@@ -44,3 +44,11 @@ There are some useful default shortcuts in here: [Sublime Text 2 - Useful Shortc
 **Alignment**
 
 <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> triggers the Alignment plugin.
+
+# Launch Sublime Text 2 in Terminal
+
+```shell
+$ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+```
+
+Details: [Launch Sublime Text 2 from the Mac OS X Terminal](https://gist.github.com/olivierlacan/1195304)
